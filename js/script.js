@@ -57,7 +57,7 @@ const quotes = [
     source: "Alf",
     citation: "Alf Season 3",
     year: 1989,
-    actor: "self"},
+    actor: "Gordon Shumway"},
 
     {quote: "It's like in the great stories, Mr. Frodo. The ones that really mattered. " +
             "Full of darkness and danger they were. And sometimes you didn't want to know the end… " +
