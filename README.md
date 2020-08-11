@@ -1,2 +1,5 @@
 # RandomQuoteGenerator
- Treehouse Project - Random Quote Generator
+ 
+ A Treehouse Project as part of their Fullstack Javascript Development curriculum.
+ 
+ 

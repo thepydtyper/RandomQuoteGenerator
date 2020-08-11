@@ -76,7 +76,7 @@ const quotes = [
 function getRandomQuote()
 {
     const quotesLength = quotes.length;
-    let randomNum = Math.floor(Math.random() * Math.floor(quotesLength));
+    const randomNum = Math.floor(Math.random() * Math.floor(quotesLength));
 
     return quotes[randomNum];
 }
@@ -87,9 +87,9 @@ function getRandomQuote()
 ***/
 function changeBackgroundColor()
 {
-    let red = Math.floor(Math.random()*256);
-    let blue = Math.floor(Math.random()*256);
-    let green = Math.floor(Math.random()*256);
+    const red = Math.floor(Math.random()*256);
+    const blue = Math.floor(Math.random()*256);
+    const green = Math.floor(Math.random()*256);
     document.body.style.backgroundColor =  `rgb( ${red}, ${blue}, ${green} )`;
 }
 
@@ -101,7 +101,7 @@ function changeBackgroundColor()
 ***/
 function printQuote()
 {
-    let quote = getRandomQuote();
+    const quote = getRandomQuote();
     let html = `<p class="quote">${quote.quote}</p>
     <p class="source">${quote.source}`;
 
