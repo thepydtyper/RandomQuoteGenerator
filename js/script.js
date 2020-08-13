@@ -78,7 +78,15 @@ const quotes = [
     source: "Andy Dufresne",
     citation: "The Shawshank Redemption",
     year: 1998,
-    actor: "Tim Robbins"}
+    actor: "Tim Robbins"},
+
+    {quote: "A legend is sung, of when England young, and knights were brave and bold. The good king had died " +
+            "and no one could decide who was rightful heir to the throne. It seemed that the land would be torn by war, " +
+            "or saved by a miracle alone.. and that miracle appeared in London Town; the Sword in the Stone..",
+    source: "narrator",
+    citation: "The Sword in the Stone",
+    year: 1963,
+    actor: "Fred Darian"}
 ];
 
 /***
