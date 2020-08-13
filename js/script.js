@@ -66,7 +66,19 @@ const quotes = [
     source: "Samwise Gamgee",
     citation: "The Lord of the Rings: The Two Towers",
     year: 2002,
-    actor: "Sean Astin"}
+    actor: "Sean Astin"},
+
+    {quote: "Roads? Where we're going we don't need roads..",
+    source: "Doc Brown",
+    citation: "Back to the Future",
+    year: 1985,
+    actor: "Christopher Lloyd"},
+
+    {quote: "Hope is a good thing, maybe the best of things. And no good thing ever dies.",
+    source: "Andy Dufresne",
+    citation: "The Shawshank Redemption",
+    year: 1998,
+    actor: "Tim Robbins"}
 ];
 
 /***
