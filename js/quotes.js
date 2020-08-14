@@ -78,5 +78,17 @@ const quotes = [
     source: "narrator",
     citation: "The Sword in the Stone",
     year: 1963,
-    actor: "Fred Darian"}
+    actor: "Fred Darian"},
+
+    {quote: "Nature has a way sometimes of reminding man just how small he is. She occasionally throws up the terrible " +
+            "offsprings of our pride and carelessness to remind us of how puny we really are in the face of a tornado, " +
+            "an earthquake, or a Godzilla. The reckless ambitions of man are often dwarfed by their dangerous " +
+            "consequences. For now, Godzilla - that strangely innocent and tragic monster - has gone to earth. " +
+            "Whether he returns or not, or is never again seen by human eyes, the things he has taught us, remain..",
+    source: "Steve Martin",
+    citation: "Godzilla 1985",
+    year: 1985,
+    actor: "Raymond Burr"}
+
+
 ];
