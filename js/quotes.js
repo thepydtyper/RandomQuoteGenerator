@@ -7,7 +7,9 @@ const quotes = [
     source: "Doc Holliday",
     citation: "Tombstone",
     year: 1993,
-    actor: "Val Kilmer"},
+    actor: "Val Kilmer",
+    photo: "images/tombstone.jpg"},
+
 
     {quote: "Game Over, man! It's Game Over!",
     source: "Private Hudson",
@@ -49,7 +51,8 @@ const quotes = [
     source: "Alf",
     citation: "Alf Season 3",
     year: 1989,
-    actor: "Gordon Shumway"},
+    actor: "Gordon Shumway",
+    photo: "images/alf.jpg"},
 
     {quote: "It's like in the great stories, Mr. Frodo. The ones that really mattered. " +
             "Full of darkness and danger they were. And sometimes you didn't want to know the end… " +

@@ -39,7 +39,7 @@ function printQuote()
         html += `<span class="actor"> (${quote.actor})`;
     }
 
-    if ( quote.citation )
+    if (quote.citation)
     {
         html += `<span class="citation">${quote.citation}</span>`;
     }
@@ -49,8 +49,14 @@ function printQuote()
         html += `<span class="year">${quote.year}</span>`;
     }
 
-
     html += '</p>';
+
+    if (quote.photo)
+    {
+        const pic = document.querySelector('.photo');
+        console.log('photo found!')
+        //pic.innerHTML += pic.innerHTML + `src=${quote.photo}`
+    }
 
     changeBackgroundColor();
 
