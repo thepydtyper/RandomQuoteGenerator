@@ -88,7 +88,11 @@ const quotes = [
     source: "Steve Martin",
     citation: "Godzilla 1985",
     year: 1985,
-    actor: "Raymond Burr"}
+    actor: "Raymond Burr"},
 
-
+   {quote: "Fortune and glory, kid. Fortune and glory..",
+    source: "Indiana Jones",
+    citation: "Indiana Jones and the Temple of Doom",
+    year: 1984,
+    actor: "Harrison Ford"}
 ];
