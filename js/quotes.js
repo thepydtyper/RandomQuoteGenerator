@@ -97,5 +97,14 @@ const quotes = [
     source: "Indiana Jones",
     citation: "Indiana Jones and the Temple of Doom",
     year: 1984,
-    actor: "Harrison Ford"}
+    actor: "Harrison Ford"},
+
+    {quote: "HEY YOU GUYS!!",
+    source: "Sloth",
+    citation: "The Goonies",
+    year: 1985,
+    actor: "John Matuszak"}
+
+
+
 ];
