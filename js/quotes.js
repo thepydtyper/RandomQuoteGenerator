@@ -103,8 +103,13 @@ const quotes = [
     source: "Sloth",
     citation: "The Goonies",
     year: 1985,
-    actor: "John Matuszak"}
+    actor: "John Matuszak"},
 
+    {quote: "My friends call me Murphy. You call me.. Robocop.",
+    source: "Robocop",
+    citation: "Robocop",
+    year: 1987,
+    actor: "Peter Weller"}
 
 
 ];
