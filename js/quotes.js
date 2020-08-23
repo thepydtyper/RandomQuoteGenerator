@@ -109,7 +109,12 @@ const quotes = [
     source: "Robocop",
     citation: "Robocop",
     year: 1987,
-    actor: "Peter Weller"}
+    actor: "Peter Weller"},
 
+    {quote: "Give them nothing... but take from them everything!",
+    source: "King Leonidas",
+    citation: "300",
+    year: 2005,
+    actor: "Gerard Butler"}
 
 ];
