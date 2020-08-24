@@ -115,6 +115,12 @@ const quotes = [
     source: "King Leonidas",
     citation: "300",
     year: 2005,
-    actor: "Gerard Butler"}
+    actor: "Gerard Butler"},
+
+    {quote: "There are no pacts between lions and men..",
+    source: "Achilles",
+    citation: "Troy",
+    year: 2004,
+    actor: "Brad Pitt"}
 
 ];
