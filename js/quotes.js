@@ -49,8 +49,8 @@ const quotes = [
 
     {quote: "Boy is she gullible! Everybody knows Buddy Holly runs a bait and tackle shop in Phoenix.",
     source: "Alf",
-    citation: "Alf Season 3",
-    year: 1989,
+    citation: "Alf",
+    year: 1986-1990,
     actor: "Gordon Shumway",
     photo: "images/alf.jpg"},
 
@@ -121,6 +121,14 @@ const quotes = [
     source: "Achilles",
     citation: "Troy",
     year: 2004,
-    actor: "Brad Pitt"}
+    actor: "Brad Pitt"},
+
+    {quote: "Oh, on the contrary; I found the Grinch to be a relatable, engaging character and was really with him.." +
+                "right up to the point that he succumbed to social convention and returned the presents and saved Christmas." +
+                "What a buzzkill that was.",
+    source: "Dr. Sheldon Cooper",
+    citation: "The Big Bang Theory",
+    year: 2007-2014,
+    actor: "Jim Parsons"}
 
 ];
