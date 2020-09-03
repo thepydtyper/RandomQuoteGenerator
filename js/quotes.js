@@ -129,6 +129,12 @@ const quotes = [
     source: "Dr. Sheldon Cooper",
     citation: "The Big Bang Theory",
     year: 2007-2014,
-    actor: "Jim Parsons"}
+    actor: "Jim Parsons"},
+
+    {quote: "The perfect blossom is a rare thing. You could spend your life looking for one, and it would not be a wasted life.",
+     source: "Katsumoto",
+     citation: "The Last Samurai",
+     year: 2004,
+     actor: "Ken Watanabe"}
 
 ];
