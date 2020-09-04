@@ -47,13 +47,6 @@ const quotes = [
     year: 1975,
     actor: "Roy Scheider"},
 
-    {quote: "Boy is she gullible! Everybody knows Buddy Holly runs a bait and tackle shop in Phoenix.",
-    source: "Alf",
-    citation: "Alf",
-    year: 1986-1990,
-    actor: "Gordon Shumway",
-    photo: "images/alf.jpg"},
-
     {quote: "It's like in the great stories, Mr. Frodo. The ones that really mattered. " +
             "Full of darkness and danger they were. And sometimes you didn't want to know the end… " +
             "because how could the end be happy? How could the world go back to the way it was when so much bad had happened? " +
@@ -135,6 +128,12 @@ const quotes = [
      source: "Katsumoto",
      citation: "The Last Samurai",
      year: 2004,
-     actor: "Ken Watanabe"}
+     actor: "Ken Watanabe"},
+
+     {quote: "I've heard a great deal about you, Fa Mulan. You stole your father's armor, ran away from home, impersonated a soldier, deceived your commanding officer, dishonored the Chinese Army, destroyed my palace, and... you have saved us all.",
+     source: "The Emperor",
+     citation: "Mulan",
+     year: 1998,
+     actor: "Pat Morita"}
 
 ];
