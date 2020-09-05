@@ -134,6 +134,12 @@ const quotes = [
      source: "The Emperor",
      citation: "Mulan",
      year: 1998,
-     actor: "Pat Morita"}
+     actor: "Pat Morita"},
+
+     {quote: "Here now, is your final lesson: do not commit the crime for which, you now serve the sentence; God said 'vengeance is mine'.",
+     source: "Abbe Faria",
+     citation: "The Count of Monte Cristo",
+     year: 2002,
+     actor: "Richard Harris"}
 
 ];
