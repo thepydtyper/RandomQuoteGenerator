@@ -140,6 +140,12 @@ const quotes = [
      source: "Abbe Faria",
      citation: "The Count of Monte Cristo",
      year: 2002,
-     actor: "Richard Harris"}
+     actor: "Richard Harris"},
+
+     {quote: "Yet why did I allow that man to touch my soul and teach me love? He treated me like any other, he gave me his trust, he called me brother.",
+     source: "Jean Valjean",
+     citation: "Les Miserables",
+     year: 2012,
+     actor: "Hugh Jackman"}
 
 ];
