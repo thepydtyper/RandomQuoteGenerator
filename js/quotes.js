@@ -146,6 +146,12 @@ const quotes = [
      source: "Jean Valjean",
      citation: "Les Miserables",
      year: 2012,
-     actor: "Hugh Jackman"}
+     actor: "Hugh Jackman"},
+
+     {quote: "We live among people now, hiding in plain sight, but watching over them in secret, waiting, protecting. I have witnessed their capacity for courage, and though we are worlds apart there's more to them than meets the eye.",
+     source: "Optimus Prime",
+     citation: "Transformers",
+     year: 2007,
+     actor: "Peter Cullen"}
 
 ];
