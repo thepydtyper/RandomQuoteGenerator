@@ -158,6 +158,12 @@ const quotes = [
      source: "Freddy Mercury",
      citation: "Bohemian Rhapsody",
      year: 2018,
-     actor: "Rami Malek"}
+     actor: "Rami Malek"},
+     
+     {quote: "Don't do anything I would do, and definitely don't do anything I wouldn't do. There's a little grey area there, and that's where you operate.",
+     source: "Tony Stark",
+     citation: "Spiderman: Homecoming",
+     year: 2017,
+     actor: "Robert Downey Jr."}
 
 ];
