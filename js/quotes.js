@@ -152,6 +152,12 @@ const quotes = [
      source: "Optimus Prime",
      citation: "Transformers",
      year: 2007,
-     actor: "Peter Cullen"}
+     actor: "Peter Cullen"},
+
+     {quote: "They say money can't buy happiness, darlings, but it does allow you to give it away!",
+     source: "Freddy Mercury",
+     citation: "Bohemian Rhapsody",
+     year: 2018,
+     actor: "Rami Malek"}
 
 ];
