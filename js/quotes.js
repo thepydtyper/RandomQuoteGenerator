@@ -164,6 +164,12 @@ const quotes = [
      source: "Tony Stark",
      citation: "Spiderman: Homecoming",
      year: 2017,
-     actor: "Robert Downey Jr."}
+     actor: "Robert Downey Jr."},
+
+     {quote: "Don't take life too seriously; you'll never get out alive.",
+     source: "Van Wilder",
+     citation: "Van Wilder",
+     year: 2002,
+     actor: "Ryan Reynolds"}     
 
 ];
