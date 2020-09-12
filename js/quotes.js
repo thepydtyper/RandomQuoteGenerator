@@ -166,10 +166,24 @@ const quotes = [
      year: 2017,
      actor: "Robert Downey Jr."},
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+     {quote: "It's okay to lose to opponent. It's never okay to lose to fear.",
+     source: "Mr. Miyagi",
+     citation: "The Karate Kid",
+     year: 1984,
+     actor: "Pat Morita"}
+=======
+>>>>>>> Stashed changes
      {quote: "Don't take life too seriously; you'll never get out alive.",
      source: "Van Wilder",
      citation: "Van Wilder",
      year: 2002,
      actor: "Ryan Reynolds"}     
+<<<<<<< Updated upstream
+=======
+>>>>>>> 74352eb4091c6a293b7eb4ed38a27744b0b8efa2
+>>>>>>> Stashed changes
 
 ];
