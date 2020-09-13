@@ -176,5 +176,11 @@ const quotes = [
      source: "Van Wilder",
      citation: "Van Wilder",
      year: 2002,
-     actor: "Ryan Reynolds"}     
+     actor: "Ryan Reynolds"},
+     
+     {quote: "You know, outside the circus, most people were afraid of me. But I didn't hate them. I pitied them. Do you know why? Because most people will never know anything beyond what they see with their own two eyes.",
+     source: "Nightcrawler",
+     citation: "X2: X-Men United",
+     year: 2003,
+     actor: "Alan Cumming"}          
 ]
