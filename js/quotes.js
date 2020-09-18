@@ -182,5 +182,11 @@ const quotes = [
      source: "Nightcrawler",
      citation: "X2: X-Men United",
      year: 2003,
-     actor: "Alan Cumming"}          
+     actor: "Alan Cumming"},
+     
+     {quote: "Far over the misty mountains cold. To dungeons deep, and caverns old. The pines were roaring on the heights. The winds were moaning in the night. The fire was red, it flaming spread. The trees like torches blazed with light.",
+     source: "The Hobbit: An Unexpected Party",
+     citation: "Thorin's Company",
+     year: 2012,
+     actor: "group"}
 ]
