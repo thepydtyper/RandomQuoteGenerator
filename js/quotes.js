@@ -188,5 +188,11 @@ const quotes = [
      source: "The Hobbit: An Unexpected Party",
      citation: "Thorin's Company",
      year: 2012,
-     actor: "group"}
+     actor: "group"},
+
+     {quote: "Are these all your lunches? You mean you eat other people's lunches?? STOP IT!!",
+     source: "Kindergarten Cop",
+     citation: "Detective Kimble",
+     year: 1990,
+     actor: "Arnold Schwarzenegger"}
 ]
